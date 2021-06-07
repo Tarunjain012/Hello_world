@@ -1,2 +1,5 @@
 # Hello_world
-Just a repository
+
+Hii everyone!
+
+this is Tarun from IIT Bombay.
